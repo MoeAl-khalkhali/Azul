@@ -1,0 +1,7 @@
+./test < interview/ai.input
+./test < interview/aifallback.input
+./test < interview/sampleGameWithCPU.input
+./test < interview/saveCPU.input
+./test < interview/loadCPU.input
+./test < interview/showHelp.input
+./test < interview/twoPViewExample.input

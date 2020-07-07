@@ -1,0 +1,71 @@
+Main Menu
+---
+1 - Start new game
+2 - Load game
+3 - View Credits
+4 - Quit
+
+> 1 
+
+Enter a name for player 1
+> playerOne
+
+Enter a name for player 2
+> playerTwo
+
+=== Start Round ===
+TURN FOR playerOne
+Factories
+0.
+1. U U Y Y
+2. B U L Y
+3. R B U U
+4. Y L U L
+5. L Y L B
+
+
+Mosaic for playerOne:
+1.         . || . . . . .
+2.       . . || . . . . .
+3.     . . . || . . . . .
+4.   . . . . || . . . . .
+5. . . . . . || . . . . .
+broken:
+
+> Turn 1 U 2
+TURN FOR playerTwo
+Factories
+0. Y Y
+1. 
+2. B U L Y
+3. R B U U
+4. Y L U L
+5. L Y L B
+
+
+Mosaic for playerTwo:
+1.         . || . . . . .
+2.       . . || . . . . .
+3.     . . . || . . . . .
+4.   . . . . || . . . . .
+5. . . . . . || . . . . .
+broken:
+
+> Turn 0 Y 2
+TURN FOR playerOne
+Factories
+0. 
+1. 
+2. B U L Y
+3. R B U U
+4. Y L U L
+5. L Y L B
+
+
+Mosaic for playerOne:
+1.         . || . . . . .
+2.       U U || . . . . .
+3.     . . . || . . . . .
+4.   . . . . || . . . . .
+5. . . . . . || . . . . .
+broken:
